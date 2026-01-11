@@ -47,6 +47,14 @@ except ValueError as e:
     print(f"All attempts failed: {e}")
 ```
 
+## Installation
+
+```bash
+python3 -m venv .venv
+source .venv/bin/activate
+# No external dependencies required
+```
+
 ## Requirements
 
 - Python 3.x
